@@ -4,17 +4,4 @@ The updated files contain the following changes-
    In line 44, a minor change was made for the implementation of range kutta method, the change made is in the update function -self.rk4_step(u)
 
 
-For Problem D.8:
-The updated files contain the following changes-
-1. Dynamics File-
-   In line 44, a minor change was made for the implementation of range kutta method, the change made is in the update function -self.rk4_step(u)
-2. Param HW8 File:
-   FOr line 24, 25 Kp and Kd were interchanged by mistake.Now in the updated folder for Problem 8, the mistake has been removed.
 
-
-For Problem D.10:
-The updated files contain the following changes-
-1. Dynamics File-
-   In line 44, a minor change was made for the implementation of range kutta method, the change made is in the update function -self.rk4_step(u)
-2. springController file:
-   In line 26, PID controller was not implemented for F_tilde. Now in the updated file PID control has been implemented by assigning F_tilde to self.zCtrl.PID(z_r, z, False)
