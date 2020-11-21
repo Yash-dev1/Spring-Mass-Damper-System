@@ -1,0 +1,2 @@
+Before tuning the full state with integrator, the output is same as that of D.11, after tuning it can be seen in the Z vs time graph that the output is following the input and the steady error is zero. 
+The input disturbance is taken to be a sin wave of amplitude = 0.25 and frequency = 1
