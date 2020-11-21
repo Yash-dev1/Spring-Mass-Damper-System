@@ -1,0 +1,12 @@
+
+
+
+For Problem D.8:
+The updated files contain the following changes-
+1. Dynamics File-
+   In line 44, a minor change was made for the implementation of range kutta method, the change made is in the update function -self.rk4_step(u)
+2. Param HW8 File:
+   FOr line 24, 25 Kp and Kd were interchanged by mistake.Now in the updated folder for Problem 8, the mistake has been removed.
+
+
+
